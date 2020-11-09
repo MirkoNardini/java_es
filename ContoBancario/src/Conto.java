@@ -24,7 +24,7 @@ public class Conto {
 			balance -= ritira;
 			return ritira;
 		}else {
-			System.err.println("SEI POVERO COME LA MERDA!");
+			System.err.println("SEI POVERO!");
 		}
 		return 0;
 	}
